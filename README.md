@@ -1,6 +1,6 @@
 # Site for the Mood
 
-Every time you visit this site, the one funny quotes apears.
+Every time you visit this [site](https://kostyadevman.github.io/20_mood/index.html), the one funny quotes apears.
 
 # Project Goals
 
